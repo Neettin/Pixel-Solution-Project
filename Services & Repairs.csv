@@ -1,0 +1,6 @@
+Service ID,Customer ID,Product ID,Service Date,Issue,Cost (NPR),Status
+SR001,C1003,IP14-256-WHT,2/15/2024,Cracked Screen,15000,Completed
+SR002,C1007,IP14PM-1TB-PRP,2/18/2024,Battery Replacement,8000,In Progress
+SR003,C1001,IP14P-256-BLK,2/20/2024,Software Issue,2000,Completed
+SR004,C1005,IP14P-512-GLD,2/22/2024,Water Damage,20000,Pending
+SR005,C1002,IP13-128-RED,2/25/2024,Charging Port,5000,Completed

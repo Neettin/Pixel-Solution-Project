@@ -1,0 +1,6 @@
+Supplier ID,Supplier Name,Country,Lead Time (Days),Minimum Order Quantity,Payment Terms
+SUP001,Apple Inc.,USA,30,1000,Net 60
+SUP002,Nepal Telecom,Nepal,7,100,Net 30
+SUP003,Global Accessories Ltd,China,21,500,Net 45
+SUP004,Local Packaging Co.,Nepal,3,200,COD
+SUP005,Tech Transport Services,India,14,N/A,Net 30
